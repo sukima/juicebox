@@ -27,6 +27,9 @@ Both of them build a virtual machine based on `Ubuntu Server 14.04` with the the
 - [Redis](https://github.com/jpadilla/dev-box/blob/master/scripts/provisioning/redis.sh)
 - [PostgreSQL](https://github.com/jpadilla/dev-box/blob/master/scripts/provisioning/postgresql.sh)
 - [Docker](https://github.com/jpadilla/dev-box/blob/master/scripts/provisioning/docker.sh)
+- [Vim](http://www.vim.org/)
+- [Emacs](https://www.gnu.org/software/emacs/)
+- [Nano](http://www.nano-editor.org/)
 
 Desktop version has the following installed:
 
