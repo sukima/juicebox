@@ -84,6 +84,7 @@
       "scripts/provisioning/postgresql.sh",
       "scripts/provisioning/docker.sh",
       "scripts/provisioning/vim-gtk.sh",
+      "scripts/provisioning/emacs.sh",
       "scripts/provisioning/sublime-text-3.sh",
       "scripts/provisioning/google-chrome.sh",
       "scripts/provisioning/firefox.sh",

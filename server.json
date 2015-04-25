@@ -70,6 +70,7 @@
       "scripts/provisioning/postgresql.sh",
       "scripts/provisioning/docker.sh",
       "scripts/provisioning/vim-nox.sh",
+      "scripts/provisioning/emacs-nox.sh",
       "scripts/minimize.sh",
       "scripts/cleanup.sh"
     ],
